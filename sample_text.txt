@@ -1,0 +1,5 @@
+2023-07-20 10:00:01 INFO Startup successful
+2023-07-20 10:01:15 ERROR Failed to connect to server
+2023-07-20 10:02:42 WARNING Low disk space
+2023-07-20 10:03:17 ERROR Timeout occurred
+2023-07-20 10:04:33 INFO Task completed
