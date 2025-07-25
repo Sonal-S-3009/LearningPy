@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98ac2f10-9888-4398-a774-38bc525ca044" name="Changes" comment="&quot;Topics- Basics, Operators and Conditions, Loops, Function, Comprehension&quot;">
-      <change afterPath="$PROJECT_DIR$/Module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_text.txt" afterDir="false" />
+    <list default="true" id="98ac2f10-9888-4398-a774-38bc525ca044" name="Changes" comment="&quot;Topics- Exception Handling, Modules, file handling&quot;">
+      <change afterPath="$PROJECT_DIR$/Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_swampy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/list comprehension.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +49,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.BMI Calculator.executor": "Run",
+    "Python.Classes.executor": "Run",
+    "Python.Functions_practice.executor": "Run",
     "Python.Iterator.executor": "Run",
     "Python.Loops.executor": "Run",
     "Python.Module.executor": "Run",
     "Python.Swampy.executor": "Run",
+    "Python.classes_swampy.executor": "Run",
     "Python.exercise4.executor": "Run",
     "Python.kochcurve.executor": "Run",
     "Python.list comprehension.executor": "Run",
@@ -93,12 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1753072412409</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;Topics- Exception Handling, Modules, file handling&quot;">
+      <option name="closed" value="true" />
+      <created>1753096831119</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753096831119</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Topics- Basics, Operators and Conditions, Loops, Function, Comprehension&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Topics- Basics, Operators and Conditions, Loops, Function, Comprehension&quot;" />
+    <MESSAGE value="&quot;Topics- Exception Handling, Modules, file handling&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Topics- Exception Handling, Modules, file handling&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
