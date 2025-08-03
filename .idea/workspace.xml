@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98ac2f10-9888-4398-a774-38bc525ca044" name="Changes" comment="&quot;Topics- Exception Handling, Modules, file handling&quot;">
-      <change afterPath="$PROJECT_DIR$/Classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_swampy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armstrong_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clock_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/closure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logging_debugging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,18 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sonal-S-3009"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sonal-S-3009&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sonal-S-3009/LearningPy.git",
-    "accountId": "c9d05a5b-cc27-4f85-8d6d-badfea8336e1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sonal-S-3009/LearningPy.git&quot;,
+    &quot;accountId&quot;: &quot;c9d05a5b-cc27-4f85-8d6d-badfea8336e1&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -48,22 +55,38 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in python_test.py.executor": "Run",
+    "Python tests.Python tests in testing.py.executor": "Run",
     "Python.BMI Calculator.executor": "Run",
     "Python.Classes.executor": "Run",
+    "Python.File_read.executor": "Run",
     "Python.Functions_practice.executor": "Run",
     "Python.Iterator.executor": "Run",
     "Python.Loops.executor": "Run",
     "Python.Module.executor": "Run",
     "Python.Swampy.executor": "Run",
+    "Python.armstrong_num.executor": "Run",
     "Python.classes_swampy.executor": "Run",
+    "Python.clock_module.executor": "Run",
+    "Python.closure.executor": "Run",
+    "Python.decorator_module.executor": "Run",
     "Python.exercise4.executor": "Run",
     "Python.kochcurve.executor": "Run",
     "Python.list comprehension.executor": "Run",
+    "Python.logging_debugging.executor": "Run",
     "Python.practice.executor": "Run",
+    "Python.string.executor": "Run",
+    "Python.testing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/mailb/PycharmProjects/pythonProject"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mailb\PycharmProjects\pythonProject" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -104,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753096831119</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;Topics- Exception Handling, Modules, file handling&quot;">
+      <option name="closed" value="true" />
+      <created>1753423824450</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753423824450</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
